@@ -60,3 +60,15 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+  /* styles for small screens */
+}
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  /* styles for medium-sized screens */
+}
+
+@media only screen and (min-width: 901px) {
+  /* styles for large screens */
+}
